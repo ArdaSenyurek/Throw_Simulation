@@ -1,5 +1,5 @@
 # Throw_Simulation
-Throwing a ball with a GUI.
+Throwing a ball with a GUI based on recursive algorithm.
 
 
 <p float="left">
